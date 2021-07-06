@@ -4,7 +4,7 @@ class game {
 
         this.userInput = userInput;
     }
-
+    
     set userinput(x){
         if(x > 13 &&  x < 1){
 
