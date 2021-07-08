@@ -15,6 +15,7 @@
 
     //getting the image tile
     //available
+    //ddd
 
     let tileImage = document.getElementById('myimage');
 
