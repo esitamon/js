@@ -14,6 +14,7 @@
     let previousLink = document.getElementById('previous');
 
     //getting the image tile
+    //available
 
     let tileImage = document.getElementById('myimage');
 
